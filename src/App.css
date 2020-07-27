@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing : border-box;
+}
+.btn{
+  background-color: rgb(115, 113, 240) ;
+  font-size: 18px;
+  color:#fff;
+  margin:1rem 1rem;
+  padding: .6rem .6rem;
+  border:none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover{
+  opacity:0.9;
+}
